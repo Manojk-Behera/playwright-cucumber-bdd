@@ -5,3 +5,10 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+# Allure Report - ignore this too
+allure-report/
+allure-results/
+
+# Cucumber HTML report
+cucumber-report.html
